@@ -4,16 +4,24 @@
   background-color: green;
   font-weight: bold;
   font-family: Verdana;
+  border: solid yellow 6px;
+  padding: 4px;
+  margin: 10px;
 }
 
 .overview {
   float: left;
   max-width: 800px;
+  margin-left:20px;
+
+
 }
 
 img {
   float: left;
   max-width: 800px;
+  padding:12px;
+
 }
 
 .songs {
