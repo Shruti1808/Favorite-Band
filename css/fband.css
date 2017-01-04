@@ -1,0 +1,21 @@
+.shows {
+  float: right;
+  width: 20%;
+  background-color: green;
+  font-weight: bold;
+  font-family: Verdana;
+}
+
+.overview {
+  float: left;
+  max-width: 800px;
+}
+
+img {
+  float: left;
+  max-width: 800px;
+}
+
+.songs {
+  float: right;
+}
